@@ -1,0 +1,7 @@
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\CSharpFundamentals\Femme\bin\Debug\Femme.exe.config
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\CSharpFundamentals\Femme\bin\Debug\Femme.exe
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\CSharpFundamentals\Femme\bin\Debug\Femme.pdb
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\CSharpFundamentals\Femme\obj\Debug\Femme.csprojAssemblyReference.cache
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\CSharpFundamentals\Femme\obj\Debug\Femme.csproj.CoreCompileInputs.cache
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\CSharpFundamentals\Femme\obj\Debug\Femme.exe
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\CSharpFundamentals\Femme\obj\Debug\Femme.pdb
